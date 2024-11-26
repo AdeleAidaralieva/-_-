@@ -12,7 +12,6 @@
 ## Используемые библиотеки
 *Pandas*
 
-
 *Python*
 
 *Matplotlib*
