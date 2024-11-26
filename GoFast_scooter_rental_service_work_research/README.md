@@ -11,7 +11,12 @@
 
 ## Используемые библиотеки
 *Pandas*
+
+
 *Python*
+
 *Matplotlib*
+
 *SciPy*
+
 *NumPy*
